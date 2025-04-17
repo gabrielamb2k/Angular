@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
-import { HeaderComponent } from '../../../componentes/not-logged/header/header.component';
 import { CardComponent } from '../../../componentes/logged/card/card.component';
+import { HeaderComponent } from '../../../componentes/logged/header/header.component';
 
 @Component({
   selector: 'app-home',
-  imports: [HeaderComponent, CardComponent],
+  imports: [CardComponent, HeaderComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })

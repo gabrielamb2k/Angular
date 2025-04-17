@@ -4,7 +4,7 @@ import { SignInComponent } from '../../../componentes/not-logged/sign-in/sign-in
 
 
 @Component({
-  selector: 'app-login',
+  selector: 'app-home',
   standalone: true,
   imports: [HeaderComponent, SignInComponent],
   templateUrl: './login.component.html',

@@ -1,10 +1,9 @@
-#sign-in-container {
-  background-color: rgba(0, 0, 0, 0.75);
+#sign-up-container {
   color: #fff;
   width: 100%;
 }
 
-.login-box {
+.registration-box {
   background-color: rgba(0, 0, 0, 0.75);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   width: 500px;
@@ -39,7 +38,7 @@ h1 {
 }
 
 .custom-button {
-  background-color: #E50914;
+  background-color: #e50914;
   border: none;
   padding: 16px;
   font-size: 1rem;
@@ -65,7 +64,7 @@ h1 {
 }
 
 .new-here a {
-  color: #E50914;
+  color: #e50914;
 }
 
 .new-here a:hover {
